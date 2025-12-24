@@ -81,7 +81,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+<!-- Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `twitter_handle`, `email_client`, `email`, `project_license` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,6 +95,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 - [![Laravel][Laravel.com]][Laravel-url]
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![JQuery][JQuery.com]][JQuery-url]
+- [![Python][Python.org][Python-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +226,7 @@ Project Link: [https://github.com/beerens20/portfolio_target_pyversion](https://
 [license-shield]: https://img.shields.io/github/license/beerens20/portfolio_target_pyversion.svg?style=for-the-badge
 [license-url]: https://github.com/beerens20/portfolio_target_pyversion/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/michaelbeerens
 [product-screenshot]: images/screenshot.png
 
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
@@ -246,3 +247,5 @@ Project Link: [https://github.com/beerens20/portfolio_target_pyversion](https://
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Python.com]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
+[Python-url]: https://python.org
