@@ -147,6 +147,16 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+### Boglehead Approach to Portfolio Diversification
+The Boglehead approach is based on a three fund portfolio that approximate the whole market instead of trying to pick specific funds.
+
+The typical distribution of funds looks like
+- Domestic Stock Market Index Fund (70% of remaining funds after bonds)
+- International Stock Market Index Fund (30% of remaining funds after bonds)
+- Bond Market Fund
+  - The % is based on your age (if you are 40 than 40% of your mix should be bonds)
+  - Can we adjusted up or down based on your risk tolerance
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
