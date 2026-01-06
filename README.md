@@ -83,7 +83,7 @@
 
 <!-- Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `twitter_handle`, `email_client`, `email`, `project_license` -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ### Built With
 
@@ -164,7 +164,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/beerens20) - beerens20@gmail.com
+Your Name - [@beerens20](https://twitter.com/beerens20) - beerens20@gmail.com
 
 Project Link: [https://github.com/beerens20/portfolio_target_pyversion](https://github.com//beerens20/portfolio_target_pyversion)
 
