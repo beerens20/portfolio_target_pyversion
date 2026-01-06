@@ -146,11 +146,11 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
+<!-- ### Top contributors:
 
 <a href="https://github.com//beerens20/portfolio_target_pyversion/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=/beerens20/portfolio_target_pyversion" alt="contrib.rocks image" />
-</a>
+</a> -->
 
 <!-- LICENSE -->
 
@@ -178,7 +178,7 @@ Project Link: [https://github.com/beerens20/portfolio_target_pyversion](https://
 - []()
 - []() -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
